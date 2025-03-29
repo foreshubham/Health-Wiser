@@ -1,36 +1,126 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Health Wiser
 
-## Getting Started
+### 🔬 A Health-Focused Food Analysis Web App
+**Health Wiser** is a web application that helps users analyze food ingredients by scanning barcodes or manually entering product details. It provides insights into the health benefits and risks of food products and suggests alternatives for a healthier lifestyle.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+### **🔹 User Features:**
+- Scan barcodes or manually enter barcode numbers to retrieve product details.
+- Convert complex ingredient names into simple, understandable terms.
+- Get health benefits and risk analysis based on product ingredients.
+- Receive alternative food product suggestions.
+- User authentication system (login/signup).
+
+### **🔹 Admin Features:**
+- Admin authentication with predefined credentials.
+- Manage and update the ingredient database.
+- Ensure product details and ingredient analysis remain up-to-date.
+
+---
+
+## 🛠️ Tech Stack
+### **Frontend:**
+- Next.js
+- Tailwind CSS
+- Axios
+- React Barcode Scanner (Barcode scanning may require manual entry if not working)
+
+### **Backend:**
+- Node.js
+- Express.js
+- MongoDB (MongoDB Atlas for database management)
+
+### **Security Measures:**
+- **Authentication:** JWT-based authentication.
+- **Password Security:** bcrypt.js for password hashing.
+- **Security Enhancements:** HTTPS enforcement, environment variables, and express-rate-limit for API security.
+
+---
+
+## 🌐 Hosting & Deployment
+- **Frontend:** Vercel (Recommended)
+- **Backend:** Vercel, AWS, DigitalOcean, or Heroku
+- **Database:** MongoDB Atlas
+
+---
+
+## 📌 Limitations
+- ❌ No AI-powered analysis (yet).
+- ❌ Barcode scanner may have issues (manual entry required in some cases).
+- ❌ Limited database coverage (depends on admin updates).
+- ❌ No real-time product updates.
+- ❌ No mobile app (only web access).
+- ❌ Internet connection required.
+
+---
+
+## 🔮 Future Improvements
+✅ Fix barcode scanning issues.  
+✅ Introduce AI-powered food analysis.  
+✅ Develop a mobile app with offline access.  
+✅ Add smart dietary preferences & personalized alerts.  
+✅ Implement an in-house recipe maker for healthy meals.  
+✅ Build a community & expert engagement platform.  
+✅ Integrate with wearable health devices & smart assistants.  
+✅ Rebrand from **Health Wiser** to **Smart Spoon**.  
+
+---
+
+## 🏗️ Installation Guide
+### **1️⃣ Clone the Repository**
+```sh
+ git clone https://github.com/yourusername/Health-Wiser.git
+ cd Health-Wiser
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **2️⃣ Install Dependencies**
+#### Frontend:
+```sh
+cd frontend
+npm install
+```
+#### Backend:
+```sh
+cd backend
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### **3️⃣ Set Up Environment Variables**
+Create a `.env` file in the `backend` directory and add:
+```sh
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### **4️⃣ Run the Application**
+#### Start Backend:
+```sh
+cd backend
+npm start
+```
+#### Start Frontend:
+```sh
+cd frontend
+npm run dev
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 License
+This project is licensed under the **MIT License**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
+We welcome contributions! Feel free to **fork** the repository, make changes, and submit a **pull request**.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📧 Contact
+For any queries or collaborations, reach out via **[your email]** or open an **issue** on GitHub.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+⭐ **If you like this project, don't forget to star the repo!** ⭐
