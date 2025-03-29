@@ -1,24 +1,31 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+html , body{
+    height: 100%;
+    width: 100%;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* QuaggaJS video stream styling */
+#interactive.viewport {
+    position: relative;
+    width: 100%;
+    height: auto;
   }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+  
+  #interactive.viewport canvas,
+  video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  #interactive.viewport canvas.drawingBuffer,
+  video.drawingBuffer {
+    display: none;
+  }
