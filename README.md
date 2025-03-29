@@ -124,12 +124,13 @@ For any queries or collaborations, reach out via **[foreshubham@gmail.com]** or 
 
 ⭐ **If you like this project, don't forget to star the repo!** ⭐
 
-# UI![Screenshot (197)](https://github.com/user-attachments/assets/06ecb086-e56f-4563-80d8-685ca8fa08ca)
-![Screenshot (196)](https://github.com/user-attachments/assets/e23c8e40-efdd-4e73-8dea-2a5f642a6fd6)
-![Screenshot (188)](https://github.com/user-attachments/assets/13633840-cab0-4bc8-a288-46f3caf8d57c)
-![screencapture-localhost-3000-services-2025-03-25-11_04_56](https://github.com/user-attachments/assets/0e6fc174-15f8-4be1-b376-5f9261ac233b)
-![screencapture-localhost-3000-scan-2025-03-25-11_36_00](https://github.com/user-attachments/assets/774acdea-7a14-42e2-8271-88076a6ca614)
-![screencapture-localhost-3000-about-us-2025-03-25-11_20_44](https://github.com/user-attachments/assets/2558bd63-8cde-47d3-8f9a-cc242a6d424a)
+# UI
 ![screencapture-localhost-3000-2025-03-25-11_21_12](https://github.com/user-attachments/assets/901842f0-6fed-4a4f-9d24-ee8b53ca09a6)
+![screencapture-localhost-3000-scan-2025-03-25-11_36_00](https://github.com/user-attachments/assets/774acdea-7a14-42e2-8271-88076a6ca614)
+![Screenshot (188)](https://github.com/user-attachments/assets/13633840-cab0-4bc8-a288-46f3caf8d57c)
+![Screenshot (196)](https://github.com/user-attachments/assets/e23c8e40-efdd-4e73-8dea-2a5f642a6fd6)
+![screencapture-localhost-3000-about-us-2025-03-25-11_20_44](https://github.com/user-attachments/assets/2558bd63-8cde-47d3-8f9a-cc242a6d424a)
+![screencapture-localhost-3000-services-2025-03-25-11_04_56](https://github.com/user-attachments/assets/0e6fc174-15f8-4be1-b376-5f9261ac233b)
+![Screenshot (197)](https://github.com/user-attachments/assets/06ecb086-e56f-4563-80d8-685ca8fa08ca)
 
 
