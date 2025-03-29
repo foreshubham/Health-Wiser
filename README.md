@@ -71,7 +71,7 @@
 ## 🏗️ Installation Guide
 ### **1️⃣ Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/Health-Wiser.git
+ git clone https://github.com/foreshubham/Health-Wiser.git
  cd Health-Wiser
 ```
 
@@ -108,10 +108,6 @@ npm run dev
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to **fork** the repository, make changes, and submit a **pull request**.
@@ -119,7 +115,7 @@ We welcome contributions! Feel free to **fork** the repository, make changes, an
 ---
 
 ## 📧 Contact
-For any queries or collaborations, reach out via **[your email]** or open an **issue** on GitHub.
+For any queries or collaborations, reach out via **[foreshubham@gmail.com]** or open an **issue** on GitHub.
 
 ---
 
