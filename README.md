@@ -32,7 +32,7 @@ https://github.com/foreshubham/Health-Wiser-Backend
 
 ### **Backend:**
 - Node.js
-- Express.js
+- Express.js..
 - MongoDB (MongoDB Atlas for database management)
 
 ### **Security Measures:**
