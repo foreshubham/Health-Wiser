@@ -1,6 +1,6 @@
 # Health Wiser
 
-### 🔬 A Health-Focused Food Analysis Web App
+### 🔬 A Health-Focused Food Analysis Web App'
 **Health Wiser** is a web application that helps users analyze food ingredients by scanning barcodes or manually entering product details. It provides insights into the health benefits and risks of food products and suggests alternatives for a healthier lifestyle.
 
 ---
